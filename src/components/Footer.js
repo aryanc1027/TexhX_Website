@@ -19,10 +19,11 @@ const Footer = () => {
                     </div>
                     <div className='email'>
                         <h4><FaMailBulk size = {20} style= {{color: '#ffffff', marginRight: '2rem'}}/>aryanc1027@gmail.com</h4>
+                        <h4 style={{marginLeft:'3.2rem'}}>aryanc@unc.edu</h4>
                     </div>
                 </div>
             <div clasName='right'>
-                <h4>UNC Chapel Hill</h4>
+
                 <p> Current Year: Freshman</p>
                 <p> TechX Cohort 1 </p>
                 <div className='social'>
