@@ -14,8 +14,8 @@ const Video = () => {
                 <source src={spaceVideo} type='video/mp4' />
             </video>
         <div className='content'>
-            <h1>TechX</h1>
-            <p>Society. Not a club</p>
+            <h1>Aryan Choudhary</h1>
+            <p>UNC Chapel Hill</p>
 
         <div>
             <Link to='/PassTimes' className='btn'>Pass Times</Link>
